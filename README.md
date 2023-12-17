@@ -14,7 +14,7 @@ Desenvolvemos um sistema para a Nunes Sports, atendendo a uma solicitação do c
 - Banco de dados: MySql
 
 # Como executar o projeto
-- Para rodar o sistema temos que startar o seridor 
+- Para rodar o sistema temos que startar o servidor 
 - Iniciar o banco de dados
 - http://localhost/nunes_sport/index.php
 
@@ -35,7 +35,7 @@ Pré-requisitos: PHP atualizado
 - Tela Listar/Editar/Excluir Produtos
 ![image](https://github.com/raa-russo/crud_php_sport_nunes/assets/101585738/898d14df-7843-456b-a308-24f01bbd44bd)
 
-- DB
+- Banco de Dados
 ![image](https://github.com/raa-russo/crud_php_sport_nunes/assets/101585738/58129fd2-bafc-472a-8efc-27e9d4999b67)
 
   
